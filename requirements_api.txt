@@ -1,0 +1,10 @@
+# FastAPI 后端依赖
+fastapi==0.115.12
+uvicorn==0.34.2
+python-multipart==0.0.20
+
+# 可选：生产环境部署
+gunicorn==21.2.0
+
+# 客户端测试依赖
+requests==2.32.3
